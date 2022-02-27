@@ -8,7 +8,55 @@
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92852428/be35909bb32fb63eac771b8a0f6e6235/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
   } ],
-  "metadata" : [ ],
+  "metadata" : [{
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Torinon, Edme, 1672-1700, notary"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "October 8th, 1696"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Archives (FR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Reference code"
+        ]
+      },
+      "value": {
+        "en": [
+          "MC/RS//1429"
+        ]
+      }
+    }
+ ],
   "description" : [ {
     "@value" : "Wedding contract between Jacques Salomon de Poulard and Jeanne Françoise de Biaudos Casteja",
     "@language" : "en"
