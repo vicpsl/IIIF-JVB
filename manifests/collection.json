@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4_withanno.json",
+    "label" : "Wedding contract between Jacques Salomon de Poulard and Jeanne Françoise de Biaudos Casteja"
+  } ]
 }
