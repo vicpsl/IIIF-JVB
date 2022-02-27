@@ -1,0 +1,336 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "fust oblig&eacute;e ou condamn&eacute;e, dont ils seront acquittez et indemnisez par les heritiers et sur les biens dud. futur espoux.\nCar ainsy etc., promettants etc., obligeans etc., renoncans etc., fait et pass&eacute; au chasteau de Fontainebleau, l&rsquo;an mil six cens quatre vingtz seize, le huictiesme jour d&rsquo;octobre ; sa majest&eacute; a sign&eacute;, ensemble les Princes et Princesses cy dessus nommez, avec les parties et autres.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>fust oblig&eacute;e ou condamn&eacute;e, dont ils seront acquittez et indemnisez par les heritiers et sur les biens dud. futur espoux.</p>\n<p>Car ainsy etc., promettants etc., obligeans etc., renoncans etc., fait et pass&eacute; au chasteau de Fontainebleau, l&rsquo;an mil six cens quatre vingtz seize, le huictiesme jour d&rsquo;octobre ; sa majest&eacute; a sign&eacute;, ensemble les Princes et Princesses cy dessus nommez, avec les parties et autres.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:22:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964557646",
+    "dcterms:modified" : "2022-02-27T12:22:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=262,155,743,401"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M262.43548,154.77419h371.28226v0h371.28226v200.35484v200.35484h-371.28226h-371.28226v-200.35484z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4b0a58f6-eb85-4502-ae0c-5fd68bdc1fe8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis [XIV]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "Louis [XIV]"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:23:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964596828",
+    "dcterms:modified" : "2022-02-27T12:23:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=367,567,292,91"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M366.95161,567.03226h146.16129v0h146.16129v45.51613v45.51613h-146.16129h-146.16129v-45.51613z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_655489b4-08c2-4b6e-994e-265b84ffe354\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis [de France (1661-1711), dit Monseigneur ou le Grand Dauphin apr&egrave;s sa mort, fils a&icirc;n&eacute; de Louis XIV]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Louis [de France (1661-1711), dit Monseigneur ou le Grand Dauphin apr&egrave;s sa mort, fils a&icirc;n&eacute; de Louis XIV]"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:23:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964633915",
+    "dcterms:modified" : "2022-02-27T12:23:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=336,648,337,76"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M335.98387,648.32258h168.41935v0h168.41935v37.77419v37.77419h-168.41935h-168.41935v-37.77419z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9520d9e4-8690-4cd6-8999-f62ffade0d0a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louise B&eacute;n&eacute;dicte de Bourbon [fille du prince de Cond&eacute;, &eacute;pouse du duc du Maine]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "Louise B&eacute;n&eacute;dicte de Bourbon [fille du prince de Cond&eacute;, &eacute;pouse du duc du Maine]"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:24:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964670086",
+    "dcterms:modified" : "2022-02-27T12:24:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=342,782,488,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M341.79032,781.87097h243.90323v0h243.90323v35.83871v35.83871h-243.90323h-243.90323v-35.83871z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4a158457-2914-4392-891b-e017b09fb71d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis Auguste de Bourbon [(1670-1736), duc du Maine, duc d'Aumale, prince souverain de Dombes, comte d&rsquo;Eu, fils de Louis XIV, employeur du futur &eacute;poux]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Louis Auguste de Bourbon [(1670-1736), duc du Maine, duc d'Aumale, prince souverain de Dombes, comte d&rsquo;Eu, fils de Louis XIV, employeur du futur &eacute;poux]</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:25:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964707776",
+    "dcterms:modified" : "2022-02-27T12:25:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=278,844,676,85"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M277.91935,843.80645h337.77419v0h337.77419v42.6129v42.6129h-337.77419h-337.77419v-42.6129z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1f782809-9f74-4be0-b9b0-14a3b8794857\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis-Alexandre de Bourbon [(1678-1737), comte de Toulouse, duc de Penthi&egrave;vre, d&rsquo;Arc, de Ch&acirc;teauvillain et de Rambouillet, dernier fils l&eacute;gitim&eacute; de Louis XIV et de la marquise de Montespan]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "Louis-Alexandre de Bourbon [(1678-1737), comte de Toulouse, duc de Penthi&egrave;vre, d&rsquo;Arc, de Ch&acirc;teauvillain et de Rambouillet, dernier fils l&eacute;gitim&eacute; de Louis XIV et de la marquise de Montespan]"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:25:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964741702",
+    "dcterms:modified" : "2022-02-27T12:25:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=237,923,643,85"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M237.27419,923.16129h321.32258v0h321.32258v42.6129v42.6129h-321.32258h-321.32258v-42.6129z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1c30398f-1317-4939-a5c2-85cf194874d9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fran&ccedil;oise d&rsquo;Aubign&eacute; [<a href=\"https://fr.wikipedia.org/wiki/Madame_de_Maintenon\" target=\"_blank\" rel=\"noopener\">Madame de Maintenon,&nbsp;<span style=\"background-color: transparent; font-size: 10pt;\">Marquise de Maintenon, &eacute;pouse du Roi<span style=\"background-color: transparent; font-size: 10pt;\">]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fran&ccedil;oise d&rsquo;Aubign&eacute; [<a href=\"https://fr.wikipedia.org/wiki/Madame_de_Maintenon\" target=\"_blank\" rel=\"noopener\">Madame de Maintenon</a>,&nbsp;<span style=\"background-color: transparent; font-size: 10pt;\">Marquise de Maintenon, &eacute;pouse du Roi</span><span style=\"background-color: transparent; font-size: 10pt;\">]</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:26:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964806702",
+    "dcterms:modified" : "2022-02-27T12:33:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=309,1105,519,89"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M308.8871,1105.09677h259.3871v0h259.3871v44.54839v44.54839h-259.3871h-259.3871v-44.54839z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c302fe74-fbec-451c-8ba3-6ef95fba2eb1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.06452\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anne Marie Fran&ccedil;oise de Saint Hermine de Mailly [<span style=\"background-color: transparent; font-size: 10pt;\">&Eacute;pouse de Louis de Mailly, seigneur de Rubempr&eacute; (menin du Grand Dauphin)]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Anne Marie Fran&ccedil;oise de Saint Hermine de Mailly [<span style=\"background-color: transparent; font-size: 10pt;\">&Eacute;pouse de Louis de Mailly, seigneur de Rubempr&eacute; (menin du Grand Dauphin)]</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:28:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964880695",
+    "dcterms:modified" : "2022-02-27T12:28:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=290,1193,708,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M290.17742,1193.0472h353.82258v0h353.82258v43.33871v43.33871h-353.82258h-353.82258v-43.33871z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4183a42c-d840-40ba-b9f8-8bf8c52ec43b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fran&ccedil;oise d&rsquo;Aubign&eacute; [&Eacute;pouse de Louis de Mailly, seigneur de Rubempr&eacute; (menin du Grand Dauphin)]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fran&ccedil;oise d&rsquo;Aubign&eacute; [&Eacute;pouse de Louis de Mailly, seigneur de Rubempr&eacute; (menin du Grand Dauphin)]</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:30:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645965027292",
+    "dcterms:modified" : "2022-02-27T12:30:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=289,1286,510,62"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M288.83333,1285.78914h255.03226v0h255.03226v31.24194v31.24194h-255.03226h-255.03226v-31.24194z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_759d478b-571e-4e07-a346-b1f81af55784\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Montchevreuil [Henri de Mornay, marquis de Montchevreuil, t&eacute;moin de la mari&eacute;e]",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Montchevreuil [<span style=\"background-color: transparent; font-size: 10pt;\">Henri de Mornay, marquis de Montchevreuil, t&eacute;moin de la mari&eacute;e]</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:34:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645965292087",
+    "dcterms:modified" : "2022-02-27T12:34:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=344,1348,442,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M343.94086,1347.61709h220.75806v0h220.75806v26.53763v26.53763h-220.75806h-220.75806v-26.53763z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7ffdc579-5640-4d03-97bf-9839b1a8f074\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+    } ]
+  } ],
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24680_original_v3_anno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
