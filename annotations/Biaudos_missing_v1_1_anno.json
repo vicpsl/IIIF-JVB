@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ont reconnu et contest&eacute; avoir fait et accord&eacute;&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ont reconnu et contest&eacute; avoir fait et accord&eacute;&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T15:59:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645977543951",
+    "dcterms:modified" : "2022-02-27T15:59:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=269,1376,855,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1124.40909,1412.37662h-427.72727v0h-427.72727v-17.98182v-17.98182h427.72727h427.72727v17.98182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4d7515f0-c910-401f-a5cb-3dd8b6a7fa2c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c6bda1ab-540e-48e5-af30-0a33d5f1278c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "et aussi en la pr&eacute;sence de haut et puissant seigneur messire Henry de Mornay, chevalier, marquis de Montchevreuil, gouverneur du ch&acirc;teau de Saint-Germain-en-Laye, premier gentilhomme de S.A.S. monseigneur le Duc du Mayne, Fran&ccedil;oise de Sainte Hermine, comtesse de Mailly, dame d&rsquo;atour de S.A.R. Madame la duchesse de Chartres, dame Fran&ccedil;oise d&rsquo;Aubign&eacute; ? de Madame dame de Maintenon, Dame [Bonne] de Mornay, &eacute;pouse de messire de Manneville, gouverneur de Dieppe, dame d&rsquo;honneur de S.A.R. Madame la Duchesse du Mayne, messire Marquis d&rsquo;O, gouverneur de S.A.S. monseigneur de Duc de Toulouse, messire Nicolas de Malezieux, chancelier des Dombes, messire Nicolas de Malezieux, abb&eacute; comandataire de Moreilles, messires Jacques du Pin, seigneur de Bessac, enseigne des gardes de S.A.S. monseigneur de Duc du Maine, De Vernouillet, &eacute;cuyer, de monseigneur Chol de Torpanne, ??, Sachier du T., &eacute;cuyer de Madame la duchesse du Mayne, Desplassons, &eacute;cuyer de S.A.S. monseigneur le comte de Toulouse, Audign&eacute;, ? des carabiniers, Caramon, enseigne des gardes de S.A.S. monseigneur le duc du Mayne, Laporte, &eacute;cuyer de Madame la duchesse du Mayne.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>et aussi en la pr&eacute;sence de haut et puissant seigneur messire Henry de Mornay, chevalier, marquis de Montchevreuil, gouverneur du ch&acirc;teau de Saint-Germain-en-Laye, premier gentilhomme de S.A.S. monseigneur le Duc du Mayne, Fran&ccedil;oise de Sainte Hermine, comtesse de Mailly, dame d&rsquo;atour de S.A.R. Madame la duchesse de Chartres, dame Fran&ccedil;oise d&rsquo;Aubign&eacute; ? de Madame dame de Maintenon, Dame [Bonne] de Mornay, &eacute;pouse de messire de Manneville, gouverneur de Dieppe, dame d&rsquo;honneur de S.A.R. Madame la Duchesse du Mayne, messire Marquis d&rsquo;O, gouverneur de S.A.S. monseigneur de Duc de Toulouse, messire Nicolas de Malezieux, chancelier des Dombes, messire Nicolas de Malezieux, abb&eacute; comandataire de Moreilles, messires Jacques du Pin, seigneur de Bessac, enseigne des gardes de S.A.S. monseigneur de Duc du Maine, De Vernouillet, &eacute;cuyer, de monseigneur Chol de Torpanne, ??, Sachier du T., &eacute;cuyer de Madame la duchesse du Mayne, Desplassons, &eacute;cuyer de S.A.S. monseigneur le comte de Toulouse, Audign&eacute;, ? des carabiniers, Caramon, enseigne des gardes de S.A.S. monseigneur le duc du Mayne, Laporte, &eacute;cuyer de Madame la duchesse du Mayne.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T15:58:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645977508692",
+    "dcterms:modified" : "2022-02-27T15:58:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=284,866,867,513"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M283.97273,866.48571h433.45909v0h433.45909v256.27273v256.27273h-433.45909h-433.45909v-256.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_90e7edce-0dce-4e3a-9a54-318a0caa6a26\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c6bda1ab-540e-48e5-af30-0a33d5f1278c"
+    } ]
+  } ],
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/Biaudos_missing_v1_1_anno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
