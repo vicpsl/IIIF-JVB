@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ensemble le trait&eacute; de mariage promis aux conditions qui en suivent, assavoir que lesdits sieur Jacques Salomon de Poulart et damoiselle Jeanne Fran&ccedil;oise de Biaudos Cast&eacute;ja, ont promis se prendre l&rsquo;un l&rsquo;autre par nom et loy de mariage et icelui &ecirc;tre solennis&eacute; en face de notre m&egrave;re Sainte Eglise Catholique Apostolique et Romaine au plus t&ocirc;t.\nPour icelui, comme en effet, seront les dits sieur et damoiselle futurs &eacute;poux uns et communs en tous biens meubles et conqu&ecirc;ts immeubles suivant et au d&eacute;sir de la coutume de Paris.\nNe seront tenus des dettes et hypoth&egrave;ques l&rsquo;un de l&rsquo;autre faites avant le dit mariage, ou, s&rsquo;il y a, elles seront pay&eacute;es et acquitt&eacute;es par celui qui les aura faites et sur ses biens.\nLa dot de la future &eacute;pouse consiste en la somme de quarante mil livres qu&rsquo;elle a fournie et mise entre les mains dudit futur &eacute;poux en louis d&rsquo;argent dont il s&rsquo;est tenu pour contant, proc&eacute;dante du don et gratification qu&rsquo;il a plu &agrave; sa majest&eacute; d&rsquo;en faire &agrave; ladite future &eacute;pouse en faveur dudit mariage, et laquelle somme de quarante mil livres sera incessamment employ&eacute;e en acquisition de rente sur les aydes et gabelles cr&eacute;e &agrave; raison du denier quatorze payables en l&rsquo;h&ocirc;tel de ville de Paris, aux d&eacute;clarations&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>ensemble le trait&eacute; de mariage promis aux conditions qui en suivent, assavoir que lesdits sieur Jacques Salomon de Poulart et damoiselle Jeanne Fran&ccedil;oise de Biaudos Cast&eacute;ja, ont promis se prendre l&rsquo;un l&rsquo;autre par nom et loy de mariage et icelui &ecirc;tre solennis&eacute; en face de notre m&egrave;re Sainte Eglise Catholique Apostolique et Romaine au plus t&ocirc;t.</p>\n<p>Pour icelui, comme en effet, seront les dits sieur et damoiselle futurs &eacute;poux uns et communs en tous biens meubles et conqu&ecirc;ts immeubles suivant et au d&eacute;sir de la coutume de Paris.</p>\n<p>Ne seront tenus des dettes et hypoth&egrave;ques l&rsquo;un de l&rsquo;autre faites avant le dit mariage, ou, s&rsquo;il y a, elles seront pay&eacute;es et acquitt&eacute;es par celui qui les aura faites et sur ses biens.</p>\n<p>La dot de la future &eacute;pouse consiste en la somme de quarante mil livres qu&rsquo;elle a fournie et mise entre les mains dudit futur &eacute;poux en louis d&rsquo;argent dont il s&rsquo;est tenu pour contant, proc&eacute;dante du don et gratification qu&rsquo;il a plu &agrave; sa majest&eacute; d&rsquo;en faire &agrave; ladite future &eacute;pouse en faveur dudit mariage, et laquelle somme de quarante mil livres sera incessamment employ&eacute;e en acquisition de rente sur les aydes et gabelles cr&eacute;e &agrave; raison du denier quatorze payables en l&rsquo;h&ocirc;tel de ville de Paris, aux d&eacute;clarations&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T15:56:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645977360197",
+    "dcterms:modified" : "2022-02-27T15:59:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=244,189,916,1296"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M244.41484,189.41161h458.03839v0h458.03839v648.15355v648.15355h-458.03839h-458.03839v-648.15355z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_666a0615-31c1-436d-b0ec-8db30d0a7c10\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.13935\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://587d3f24-54e5-4a3f-9b35-ef91e47734fa"
+    } ]
+  } ],
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/Biaudos_missing_r1_1_anno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
