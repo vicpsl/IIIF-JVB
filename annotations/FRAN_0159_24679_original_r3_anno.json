@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "heritages ou rentes propres &agrave; l&rsquo;un ou l&rsquo;autre des futurs espoux, les deniers en provenans seront remployez en autres heritages ou rentes pour sortir pareille nature de propre &agrave; celuy du cot&eacute; duquel lesd. heritages vendus ou rentes rachet&eacute;es auront procedd&eacute; ; et sy au jour de la dissolution de lad. communaut&eacute; lesd. remploy&eacute;s ne se trouvoient fait, lesd. deniers seront repris sur les effets de lad. Communaut&eacute;, et s&rsquo;ils ne suffisent, ce qui s&rsquo;en defaudra, &agrave; l&rsquo;egard seullement de la future espouse sera repris sur les [biens] propres dud. futur espoux et sera l&rsquo;action dud. remploy reput&eacute;e et de nature immobiliere.\nArrivant dissolution de lad. communaut&eacute;, ladite future espouse et les enfants qui naistront dud. mariage pourront renoncer &agrave; icelle communaut&eacute;, ce faisant ils reprendront la dot de ladite damoiselle future espouse et tout ce qui luy sera escheu et avenu par succession, donnation ou autrement, mesmes sy c&rsquo;est elle, ses douaire et pr&eacute;ciput tels que dessus le tout franchement et quittement de toutes debtes et ypoteques de lad. communaut&eacute;, encores qu&rsquo;elle y&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>heritages ou rentes propres &agrave; l&rsquo;un ou l&rsquo;autre des futurs espoux, les deniers en provenans seront remployez en autres heritages ou rentes pour sortir pareille nature de propre &agrave; celuy du cot&eacute; duquel lesd. heritages vendus ou rentes rachet&eacute;es auront procedd&eacute; ; et sy au jour de la dissolution de lad. communaut&eacute; lesd. remploy&eacute;s ne se trouvoient fait, lesd. deniers seront repris sur les effets de lad. Communaut&eacute;, et s&rsquo;ils ne suffisent, ce qui s&rsquo;en defaudra, &agrave; l&rsquo;egard seullement de la future espouse sera repris sur les [biens] propres dud. futur espoux et sera l&rsquo;action dud. remploy reput&eacute;e et de nature immobiliere.</p>\n<p>Arrivant dissolution de lad. communaut&eacute;, ladite future espouse et les enfants qui naistront dud. mariage pourront renoncer &agrave; icelle communaut&eacute;, ce faisant ils reprendront la dot de ladite damoiselle future espouse et tout ce qui luy sera escheu et avenu par succession, donnation ou autrement, mesmes sy c&rsquo;est elle, ses douaire et pr&eacute;ciput tels que dessus le tout franchement et quittement de toutes debtes et ypoteques de lad. communaut&eacute;, encores qu&rsquo;elle y&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:21:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964519453",
+    "dcterms:modified" : "2022-02-27T12:21:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=187,170,828,1091"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M186.56065,170.4129h413.77677v0h413.77677v545.62194v545.62194h-413.77677h-413.77677v-545.62194z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_67188a34-b1e2-43d7-a58a-43a4209974eb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://998d5981-2c6b-4ee5-9bda-335171539a69"
+    } ]
+  } ],
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24679_original_r3_anno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
