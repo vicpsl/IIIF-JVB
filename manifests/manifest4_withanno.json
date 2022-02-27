@@ -1,0 +1,380 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4_withanno.json",
+  "@type" : "sc:Manifest",
+  "label" : "Wedding contract between Jacques Salomon de Poulard and Jeanne Françoise de Biaudos Casteja",
+  "service" : [ {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/43050005/13dc1b3fa281cf6ddee321cd44e05ab0/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }, {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92852428/be35909bb32fb63eac771b8a0f6e6235/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  } ],
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Wedding contract between Jacques Salomon de Poulard and Jeanne Françoise de Biaudos Casteja",
+    "@language" : "en"
+  }, {
+    "@value" : "Contrat de mariage entre Jacques Salomon de Poulard et Jeanne Françoise de Biaudos Casteja",
+    "@language" : "fr"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Archives Nationales FR",
+  "sequences" : [ {
+    "@id" : "http://cd2735cb-936b-42a4-9970-cb102debffbe",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://65331653-6d1b-448f-8ee7-2bad9ff1bc46",
+      "@type" : "sc:Canvas",
+      "label" : "Original Recto 1",
+      "height" : 2000,
+      "width" : 1415,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7df00f2c-66a3-4c7f-8290-02ba0f331a99",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24677-original-r-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24677-original-r-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2000,
+          "width" : 1415
+        },
+        "on" : "http://65331653-6d1b-448f-8ee7-2bad9ff1bc46"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24677_original_r1_anno.json",
+        "label" : "Annotations for canvas Original Recto 1"
+      } ]
+    }, {
+      "@id" : "http://1908241d-57a9-49d0-a860-2d255cb60ebe",
+      "@type" : "sc:Canvas",
+      "label" : "Original Verso 1",
+      "height" : 1558,
+      "width" : 1078,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://31b96949-71bb-42c9-aa52-d415d6732ef3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24678-original-v-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24678-original-v-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1558,
+          "width" : 1078
+        },
+        "on" : "http://1908241d-57a9-49d0-a860-2d255cb60ebe"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24678_original_v1_anno.json",
+        "label" : "Annotations for canvas Original Verso 1"
+      } ]
+    }, {
+      "@id" : "http://ad43dd0f-7a44-438b-bebe-36276e8c679f",
+      "@type" : "sc:Canvas",
+      "label" : "Original Recto 2",
+      "height" : 1570,
+      "width" : 922,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://761227b3-b66f-4bf9-b626-9d159044640d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24678-original-r-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24678-original-r-2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1570,
+          "width" : 922
+        },
+        "on" : "http://ad43dd0f-7a44-438b-bebe-36276e8c679f"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92852428/93100cbcb3b0510e03d931274a8185bf.json",
+        "label" : "Annotations for canvas Original Recto 2"
+      } ]
+    }, {
+      "@id" : "http://6d44199b-f90b-4ab4-a102-aef4e04007ae",
+      "@type" : "sc:Canvas",
+      "label" : "Original Verso 2",
+      "height" : 1572,
+      "width" : 935,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ba9fedf3-fabf-4030-867b-e7a27d5ad505",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24679-original-v-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24679-original-v-2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1572,
+          "width" : 935
+        },
+        "on" : "http://6d44199b-f90b-4ab4-a102-aef4e04007ae"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92852428/026df42b028ff6bbf6935ebe622ff7e2.json",
+        "label" : "Annotations for canvas Original Verso 2"
+      } ]
+    }, {
+      "@id" : "http://998d5981-2c6b-4ee5-9bda-335171539a69",
+      "@type" : "sc:Canvas",
+      "label" : "Original Recto 3",
+      "height" : 1572,
+      "width" : 1083,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af1e1a11-8689-4381-adc5-a54251ff2c58",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24679-original-r-3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24679-original-r-3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1572,
+          "width" : 1083
+        },
+        "on" : "http://998d5981-2c6b-4ee5-9bda-335171539a69"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24679_original_r3_anno.json",
+        "label" : "Annotations for canvas Original Recto 3"
+      } ]
+    }, {
+      "@id" : "http://cc7d86f7-6712-453b-a210-1367e8857caf",
+      "@type" : "sc:Canvas",
+      "label" : "Original Verso 3",
+      "height" : 1500,
+      "width" : 1005,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5cef943d-f0f0-48f2-960e-a42ba54cda5e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24680-original-v-3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24680-original-v-3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1500,
+          "width" : 1005
+        },
+        "on" : "http://cc7d86f7-6712-453b-a210-1367e8857caf"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24680_original_v3_anno.json",
+        "label" : "Annotations for canvas Original Verso 3"
+      } ]
+    }, {
+      "@id" : "http://b9efac29-1449-410e-a77a-2c2ebc301790",
+      "@type" : "sc:Canvas",
+      "label" : "Original Recto 4",
+      "height" : 1500,
+      "width" : 997,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2e95be1-75d0-49f7-8a71-b62840fe40c7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24680-original-r-4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/fran-0159-24680-original-r-4",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1500,
+          "width" : 997
+        },
+        "on" : "http://b9efac29-1449-410e-a77a-2c2ebc301790"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24680_original_r4_anno.json",
+        "label" : "Annotations for canvas Original Recto 4"
+      } ]
+    }, {
+      "@id" : "http://587d3f24-54e5-4a3f-9b35-ef91e47734fa",
+      "@type" : "sc:Canvas",
+      "label" : "Missing Recto 1_1",
+      "height" : 1766,
+      "width" : 1181,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3272ba90-73e1-4ae4-9c0f-19ab643cd2d4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/biaudos-missing-v-1-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/biaudos-missing-v-1-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1766,
+          "width" : 1181
+        },
+        "on" : "http://587d3f24-54e5-4a3f-9b35-ef91e47734fa"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/Biaudos_missing_r1_1_anno.json",
+        "label" : "Annotations for canvas Missing Recto 1_1"
+      } ]
+    }, {
+      "@id" : "http://c6bda1ab-540e-48e5-af30-0a33d5f1278c",
+      "@type" : "sc:Canvas",
+      "label" : "Missing Verso 1_1",
+      "height" : 1766,
+      "width" : 1181,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://04963c23-c4fc-4415-a2f8-358e451fc25e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/biaudos-missing-r-1-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/biaudos-missing-r-1-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1766,
+          "width" : 1181
+        },
+        "on" : "http://c6bda1ab-540e-48e5-af30-0a33d5f1278c"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/Biaudos_missing_v1_1_anno.json",
+        "label" : "Annotations for canvas Missing Verso 1_1"
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/r0",
+    "@type" : "sc:Range",
+    "label" : "Intro",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/r1", "http://example.org/iiif/book1/range/r2", "http://example.org/iiif/book1/range/r3" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Original from National Archives",
+    "ranges" : [ "http://example.org/iiif/book1/range/r4", "http://example.org/iiif/book1/range/r5", "http://example.org/iiif/book1/range/r6", "http://example.org/iiif/book1/range/r7", "http://example.org/iiif/book1/range/r8", "http://example.org/iiif/book1/range/r9", "http://example.org/iiif/book1/range/r10" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r2",
+    "@type" : "sc:Range",
+    "label" : "Missing digital copies",
+    "ranges" : [ "http://example.org/iiif/book1/range/r11", "http://example.org/iiif/book1/range/r12" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r3",
+    "@type" : "sc:Range",
+    "label" : "Rebuilt full contract",
+    "ranges" : [ "http://example.org/iiif/book1/range/r4", "http://example.org/iiif/book1/range/r11", "http://example.org/iiif/book1/range/r12", "http://example.org/iiif/book1/range/r5", "http://example.org/iiif/book1/range/r8", "http://example.org/iiif/book1/range/r9", "http://example.org/iiif/book1/range/r10", "http://example.org/iiif/book1/range/r6", "http://example.org/iiif/book1/range/r7" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r4",
+    "@type" : "sc:Range",
+    "label" : "Original Recto 1",
+    "canvases" : [ "http://65331653-6d1b-448f-8ee7-2bad9ff1bc46" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r5",
+    "@type" : "sc:Range",
+    "label" : "Original Verso 1",
+    "canvases" : [ "http://1908241d-57a9-49d0-a860-2d255cb60ebe" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r6",
+    "@type" : "sc:Range",
+    "label" : "Original Recto 2 - Procuration signed in Furnes",
+    "canvases" : [ "http://ad43dd0f-7a44-438b-bebe-36276e8c679f" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r7",
+    "@type" : "sc:Range",
+    "label" : "Original Verso 2 - Procuration signed in Furnes",
+    "canvases" : [ "http://6d44199b-f90b-4ab4-a102-aef4e04007ae" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r8",
+    "@type" : "sc:Range",
+    "label" : "Original Recto 3",
+    "canvases" : [ "http://998d5981-2c6b-4ee5-9bda-335171539a69" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r9",
+    "@type" : "sc:Range",
+    "label" : "Original Verso 3",
+    "canvases" : [ "http://cc7d86f7-6712-453b-a210-1367e8857caf" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r10",
+    "@type" : "sc:Range",
+    "label" : "Original Recto 4",
+    "canvases" : [ "http://b9efac29-1449-410e-a77a-2c2ebc301790" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r11",
+    "@type" : "sc:Range",
+    "label" : "Missing Verso 1_1",
+    "canvases" : [ "http://c6bda1ab-540e-48e5-af30-0a33d5f1278c" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r12",
+    "@type" : "sc:Range",
+    "label" : "Missing Recto 1_1",
+    "canvases" : [ "http://587d3f24-54e5-4a3f-9b35-ef91e47734fa" ]
+  } ]
+}
