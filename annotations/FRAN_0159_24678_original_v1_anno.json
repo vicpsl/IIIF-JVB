@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "dans le contrat d&rsquo;acquisition que les deniers proviendront de la dot de lad. damoiselle future espouse pour plus de seuret&eacute; de lad. dot.\nDe laquelle somme de quarante mil livres, celle de dix mil livres entrera dans lad. comunaut&eacute; et les autres trente mil livres seront et demeureront propres &agrave; lad. damoiselle future espouse et aux siens de son cost&eacute; et ligne avec tout ce qui luy adviendra et escherra par succession, donnation ou autrement.\nLedit sieur futur espoux a dou&eacute; lad. damoiselle future espouse de mil livres de rente annuelle et viagere au cas qu&rsquo;il n&rsquo;y ayt point d&rsquo;enfant vivant dud. mariage, et s&rsquo;il y en a, led. douaire sera de sept cens cinquante livres aussy de rente annuelle et viagere &agrave; l&rsquo;avoir et prendre sur tous les biens presens et &agrave; venir dud. sieur futur espoux.\nLe survivant desd. sieur et damoiselle futurs espoux prendra par pr&eacute;ciput des biens meubles de lad. communaut&eacute; tels qu&rsquo;il voudra choisir, suivant la pris&eacute;e de l&rsquo;inventaire et sans crue jusques la somme de six mil livres, ou lad. somme en deniers, au choix dudit survivant.\nS&rsquo;il est vendu ou rachept&eacute; aucuns&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>dans le contrat d&rsquo;acquisition que les deniers proviendront de la dot de lad. damoiselle future espouse pour plus de seuret&eacute; de lad. dot.</p>\n<p>De laquelle somme de quarante mil livres, celle de dix mil livres entrera dans lad. comunaut&eacute; et les autres trente mil livres seront et demeureront propres &agrave; lad. damoiselle future espouse et aux siens de son cost&eacute; et ligne avec tout ce qui luy adviendra et escherra par succession, donnation ou autrement.</p>\n<p>Ledit sieur futur espoux a dou&eacute; lad. damoiselle future espouse de mil livres de rente annuelle et viagere au cas qu&rsquo;il n&rsquo;y ayt point d&rsquo;enfant vivant dud. mariage, et s&rsquo;il y en a, led. douaire sera de sept cens cinquante livres aussy de rente annuelle et viagere &agrave; l&rsquo;avoir et prendre sur tous les biens presens et &agrave; venir dud. sieur futur espoux.</p>\n<p>Le survivant desd. sieur et damoiselle futurs espoux prendra par pr&eacute;ciput des biens meubles de lad. communaut&eacute; tels qu&rsquo;il voudra choisir, suivant la pris&eacute;e de l&rsquo;inventaire et sans crue jusques la somme de six mil livres, ou lad. somme en deniers, au choix dudit survivant.</p>\n<p>S&rsquo;il est vendu ou rachept&eacute; aucuns&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92852428",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T12:19:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645964361540",
+    "dcterms:modified" : "2022-02-27T12:19:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vicpsl.github.io/IIIF-JVB/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=201,174,867,1129"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M201.3111,174.10426h433.51968v0h433.51968v564.29239v564.29239h-433.51968h-433.51968v-564.29239z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_30ca0f90-9bef-4e3c-b1f0-5637bc56f0d5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1908241d-57a9-49d0-a860-2d255cb60ebe"
+    } ]
+  } ],
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24678_original_v1_anno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
