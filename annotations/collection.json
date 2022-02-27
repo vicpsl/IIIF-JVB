@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24677_original_r1_anno.json" ],
+  "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/collection.json",
+  "label" : "All annotations loaded in vicpsl/IIIF-JVB project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
