@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24677_original_r1_anno.json", "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24678_original_v1_anno.json", "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24679_original_r3_anno.json", "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24680_original_v3_anno.json" ],
+  "otherContent" : [ "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24677_original_r1_anno.json", "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24678_original_v1_anno.json", "https://vicpsl.github.io/IIIF-JVB/annotations/FRAN_0159_24679_original_r3_anno.json" ],
   "@id" : "https://vicpsl.github.io/IIIF-JVB/annotations/collection.json",
   "label" : "All annotations loaded in vicpsl/IIIF-JVB project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
